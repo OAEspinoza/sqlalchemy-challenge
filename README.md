@@ -1,7 +1,7 @@
 # sqlalchemy-challenge
 
 ## Part One: Climate Data Exploration
-
+In this challenge, Python,  SQLAlchemy, and Flask were used to do a basic climate analysis and data exploration of a climate database, and a Flask API was designed based on the queries that were developed in the first part.
 ### Precipitation Analysis
 <br>
 See code and results in the accompanying climate_starter.ipynb file. Figure 1 below shoes the ploy of precipitation readings during the year before the most recent date in the database.
@@ -63,4 +63,4 @@ See code and results in the accompanying climate_starter.ipynb file. Figure 2 sh
 Figure 2. Frequency of temperature readings for station USC00519281.
 
 ## Part Two
-
+App code can be found in the app.py file
